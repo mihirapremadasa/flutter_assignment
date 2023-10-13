@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479685135785",
+    "project_id": "agri-mobileapp",
+    "storage_bucket": "agri-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479685135785:android:7df55fe8d3b4088082c8b8",
+        "android_client_info": {
+          "package_name": "com.example.testing_agritech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehL0qxnMYbY20MwyYbHtw1a5QubBXVGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
